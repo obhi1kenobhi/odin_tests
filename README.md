@@ -1,1 +1,1 @@
-# odin_tests
+The files and folders here are just files for the lessons of The Odin Project. Project files will be created in a separate repository after a thorough practice of the entire procedure of using Git# odin_tests
